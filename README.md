@@ -17,8 +17,3 @@ This is a simple Windows Forms application that demonstrates OAuth 2.0 authentic
 - [Visual Studio](https://visualstudio.microsoft.com/) (or another C# IDE)
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) (for JSON parsing)
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/zeynab-arian/ouath.git
